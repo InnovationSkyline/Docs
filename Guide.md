@@ -4,7 +4,7 @@
 >*Innovation Skyline is a non-profit organization that helps to bring amazing people together to create, develop, design and make things with Open Technologies and share work for the benefit of all.
  Therefore, this guide would help you to become an integral part of the Community.
  
- >>>##**Working with Innovation Skyline**
+ >>>## **Working with Innovation Skyline**
 
 >Everyone in the *Innovation Skyline* community is expected to follow our Code of Conduct. To become part of the *Innovation Skyline* developers team, there are a few steps you need to complete. The newcomer process is as follows:
 
